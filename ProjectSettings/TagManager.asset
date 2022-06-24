@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Paddle
+  - Pillar
+  - GawangAtas
+  - GawangBawah
+  - GawangKiri
+  - GawangKanan
+  - Ball
   layers:
   - Default
   - TransparentFX
