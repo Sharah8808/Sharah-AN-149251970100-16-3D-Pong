@@ -1899,7 +1899,7 @@ MonoBehaviour:
   player2Score: 0
   player3Score: 0
   player4Score: 0
-  maxScore: 2
+  maxScore: 15
   pAtas: {fileID: 1977441205}
   pBawah: {fileID: 1343311069}
   pKiri: {fileID: 1036303220}
